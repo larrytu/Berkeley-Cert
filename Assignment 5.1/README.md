@@ -10,7 +10,7 @@ This report provides the highlights of my analysis on customers who have accepte
 - **Kids**: I found that drivers with kids have mixed reactions. It mainly depends on the type of coupon. For example drivers with kids as passengers would not choose the bar coupon due to the child not being old enough to enter, but drivers with kids are more likely to get carryout coupons due to the normally lower prices and ease of access.
 
 ### Occupation
-- Customers in professionalroles showed a higher coupon acceptance rate. In contrast, the students and unemployed were less likely to accept coupons.
+- Customers in professional roles showed a higher coupon acceptance rate. In contrast, the students and unemployed were less likely to accept coupons.
 
 ### Income Levels
 - Surprisingly, drivers with lower incomes were not as inclined to accepting the coupons. This could be the result of them not having more disposable income like the higher earners have. 
